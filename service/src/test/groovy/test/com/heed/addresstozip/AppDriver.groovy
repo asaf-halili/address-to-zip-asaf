@@ -1,6 +1,6 @@
-package ct.com.agt.mes.helloworld
+package test.com.heed.addresstozip
 
-import com.agt.mes.helloworld.Application
+import com.heed.addresstozip.Application
 import groovyx.net.http.RESTClient
 import org.springframework.boot.SpringApplication
 

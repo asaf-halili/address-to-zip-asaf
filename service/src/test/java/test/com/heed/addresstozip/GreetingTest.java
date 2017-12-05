@@ -1,4 +1,4 @@
-package test.com.agt.mes.helloworld;
+package test.com.heed.addresstozip;
 
 import org.junit.Test;
 
